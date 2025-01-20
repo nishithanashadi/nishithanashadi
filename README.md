@@ -1,6 +1,10 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s)](https://rishavchanda.io)
+<a href="https://rishavchanda.io">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s" alt="MasterHead" style="width:100%; display:block; margin:0 auto;">
+</a>
+
 <h1 align="center">Hi 👋, I'm Nishitha Nashadi</h1>
-<h3 align="center">Currently I am student in Information Technology degree at the Sri Lanka Institute of Information Technology @SLIIT</h3>
+<h3 align="center">Currently I am a student in the Information Technology degree program at the Sri Lanka Institute of Information Technology @SLIIT</h3>
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishithanashadi&label=Profile%20views&color=0e75b6&style=flat" alt="nishithanashadi" /> </p>
