@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nishitha Nashadi</h1>
 <h3 align="center">Currently I am student in Information Technology degree at the Sri Lanka Institute of Information Technology @SLIIT</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
